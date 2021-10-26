@@ -1,47 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T08:47:29.851Z" agent="5.0 (Windows)" etag="Im2ShfNxP2a4ENnVqEDf" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T08:52:05.787Z" agent="5.0 (Windows)" etag="TSzE2tql2zn-Kfo2cNXV" version="15.5.9" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="1234" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="994" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="1000" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-5" value="Category 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-5" value="Category 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-6" value="Category3" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="573" y="340" width="160" height="40" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-6" value="Category3" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="577" y="340" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-7" value="Category4" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-7" value="Category4" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="831" y="430" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="417" y="395" width="20" height="20" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="413" y="395" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="646" y="395" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="897" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1 align=&quot;center&quot;&gt;KG (A. Hogan et al)&lt;br&gt;&lt;/h1&gt;&lt;p align=&quot;justify&quot;&gt;The first category simply defines the knowledge graph as a graph where nodes represent entities, and edges represent relationships between those entities.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;the Category 1 definition raises some doubts: How is a knowledge graph different from a graph (database)? Where does knowledge come into play?&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="74" y="430" width="247" height="240" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1 align=&quot;center&quot;&gt;KG(L. Ehrlinger et W. Wöß)&lt;br&gt;&lt;/h1&gt;&lt;p align=&quot;justify&quot;&gt;the Category2 definitions based on the argument that knowledge bases are often synonymous with ontologies, while knowledge graphs are not;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;A knowledge graph acquires and integrates information into an ontology and applies a reasoner to derive new knowledge.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;They remark that a knowledge graph is distinguished from an ontology (considered synonymous with a knowledge base) by the provision of reasoning capabilities.&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="304" y="40" width="241" height="330" as="geometry" />
+          <mxGeometry x="283" y="40" width="280" height="330" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-17" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;h1&gt;KG (A. Hogan et al)&lt;/h1&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;A knowledge graph is a semi structured data model characterized by three components:&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;- A ground extensional component, that is, a set of relational constructs for schema and data (which can be effectively modeled as graphs or generalizations thereof);&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;- An intensional component, that is, a set of inference rules over the constructs of the ground extensional component;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;- A derived extensional component that can be produced as the result of the application of the inference rules over the ground extensional component (reasoning process)&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="430" width="260" height="350" as="geometry" />
+          <mxGeometry x="508" y="430" width="306" height="330" as="geometry" />
         </mxCell>
         <mxCell id="gjJPOhVwv25Ugim2emXY-3" value="&lt;h1&gt;KG&lt;/h1&gt;&lt;p align=&quot;justify&quot;&gt;&amp;nbsp;This category sidesteps the issue of defining a knowledge graph, rather than providing such a definition.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;definitions, the fourth category adopts an extensional definition of knowledge graphs, defining them by example. Knowledge graphs are then characterized by examples such as Dbpedia Freebase, YAGO, Google&#39;s KG.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;the previous three categories involve (sometimes conflicting) intensional&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="799.5" y="60" width="215" height="310" as="geometry" />
+          <mxGeometry x="776" y="60" width="260" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="gjJPOhVwv25Ugim2emXY-4" value="Category2" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
-          <mxGeometry x="343" y="435" width="160" height="35" as="geometry" />
+        <mxCell id="gjJPOhVwv25Ugim2emXY-4" value="Category2" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="435" width="160" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
